@@ -1,3 +1,58 @@
+body {
+  background-color: green;
+  text-align: center;
+}
+
+.about {
+  background-color: aqua;
+  height: auto;
+}
+
+.services {
+  background-color: blueviolet;
+  height: auto;
+}
+
+.reviews {
+  background-color: firebrick;
+  padding: 20px;
+  height: auto;
+}
+
+.contact {
+  background-color: darksalmon;
+  height: auto;
+}
+
+.footer {
+  background-color: darkorange;
+  height: auto;
+}
+
+.carousel {
+  height: 350px;
+  width: 350px;
+  margin-left:auto;
+  margin-right: auto;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*** Carousel slideshow ***/
+
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
       width: 70%;
